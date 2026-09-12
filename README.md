@@ -21,14 +21,14 @@ Screenshots of the implemented project are included below to demonstrate the res
       <img src="screenshots/Desktop-Full.png" alt="Kasper Desktop Full Page" width="450">
     </td>
     <td align="center">
-      <strong>Desktop — Selected Section</strong><br><br>
-      <img src="screenshots/Desktop-Section.png" alt="Kasper Desktop Selected Section" width="450">
+      <strong>Mobile — Full Page</strong><br><br>
+      <img src="screenshots/Mobile-Full.png" alt="Kasper Mobile Full Page" width="300">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Mobile — Full Page</strong><br><br>
-      <img src="screenshots/Mobile-Full.png" alt="Kasper Mobile Full Page" width="300">
+      <strong>Desktop — Selected Section</strong><br><br>
+      <img src="screenshots/Desktop-Section.png" alt="Kasper Desktop Selected Section" width="450">
     </td>
     <td align="center">
       <strong>Mobile — Selected Section</strong><br><br>
