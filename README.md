@@ -16,11 +16,11 @@ Screenshots of the implemented project are included below to demonstrate the res
 
 <table>
   <tr>
-    <td style="vertical-align: top;">
+    <td align="center" valign="top">
       <strong>Desktop — Full Page</strong><br><br>
       <img src="screenshots/Desktop-Full.png" alt="Kasper Desktop Full Page" width="450">
     </td>
-    <td align="center" style="vertical-align: top;">
+    <td align="center">
       <strong>Mobile — Full Page</strong><br><br>
       <img src="screenshots/Mobile-Full.png" alt="Kasper Mobile Full Page" width="300">
     </td>
