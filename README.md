@@ -16,7 +16,7 @@ Screenshots of the implemented project are included below to demonstrate the res
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <strong>Desktop — Full Page</strong><br><br>
       <img src="screenshots/Desktop-Full.png" alt="Kasper Desktop Full Page" width="450">
     </td>
