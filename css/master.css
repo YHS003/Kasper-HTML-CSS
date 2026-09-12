@@ -1011,7 +1011,7 @@ header nav .form i {
 
 .pricing .container .plans .plan .footer a {
     display: block;
-    margin: 30px auto 10px; 
+    margin: 30px auto 10px;
     border: 2px solid var(--main-color);
     width: fit-content;
     padding: 15px 30px;
@@ -1045,7 +1045,7 @@ header nav .form i {
 }
 /* End Pricing */
 
-/* Start Contact */
+/* Start Subscribe */
 .subscribe {
     padding-top: 100px;
     padding-bottom: 100px;
@@ -1116,6 +1116,22 @@ header nav .form i {
     color: white;
 }
 
+@media (max-width: 991px) {
+    .subscribe .container .form {
+        width: 100%;
+    }
+
+    .subscribe .container .form form {
+        width: 100%;
+    }
+
+    .subscribe .container .form form input[type="email"] {
+        min-width: 0;
+        flex: 1;
+    }
+}
+
+
 .subscribe .container .paragraph p {
     line-height: var(--line-height);
     text-transform: capitalize;
@@ -1126,7 +1142,7 @@ header nav .form i {
         margin-top: 30px;
     }
 }
-/* End Contact */
+/* End Subscribe */
 
 /* Start Contact */
 .contact {
