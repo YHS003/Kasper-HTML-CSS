@@ -36,6 +36,7 @@ Screenshots of the implemented project are included below to demonstrate the res
     </td>
   </tr>
 </table>
+
 ## About the Project
 
 This project was developed while studying front-end development through the **Elzero Web School** course.
